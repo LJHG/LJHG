@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Hi, I'm LJHG, currently a third-year master's student in Sun Yat-sen University. I'm expected to graduate in Summer 2024.
+Hi, I'm LJHG.
 
 * [About me](https://www.ljhblog.top/aboutme.html)
 * [My blog post](https://www.ljhblog.top/archive.html)
