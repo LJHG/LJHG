@@ -2,7 +2,7 @@
 
 Hi, I'm LJHG.
 
-* [About me](https://www.ljhblog.top/aboutme.html)
+* [About me](https://ljhg.github.io/aboutme.html)
 * [My blog post](https://ljhg.github.io/archive.html)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LJHG&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
